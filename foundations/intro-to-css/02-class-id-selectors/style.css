@@ -3,6 +3,10 @@
     font-family: "Vedana, DejaVu Sans", sans-serif;
 }
 
+.odd-num.three {
+    font-size: 24px;
+}
+
 .two{
     color: blue; 
     font-size: 36px;
